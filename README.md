@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Designing
 - 🌱 I’m currently learning C, JAVA
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on insta @ _.im_a_selenophile_
+- 📫 How to reach me on insta @ __.im_a_selenophile_
                          
 
 <!---
